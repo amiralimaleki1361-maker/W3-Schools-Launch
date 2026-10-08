@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body a {
+  border-radius: 5px;
+  display: inline-block;
+  color: #fff;
+  background-color: #000;
+  text-decoration: none;
+  padding: 15px 30px;
+}
+
+body a:hover {
+  background-color: #f1f1f1;
+  color: #333;
+}
+/*# sourceMappingURL=style.css.map */
